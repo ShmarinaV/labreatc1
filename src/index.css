@@ -1,0 +1,21 @@
+.container{
+  font-family: 'Bauhaus 93';
+  width: 55%;
+  
+}
+.form-horizontal .btn{
+  background:#8a6642;
+  color:#3d2b1f;
+  text-decoration:none;
+  display:block;
+  width:90px;
+  text-align:center;
+  margin:20px auto;
+  padding:10px 10px;
+  transition:all 0.3s;
+}
+
+.form-horizontal .btn:hover{
+  color:#140f0b;
+  box-shadow:0px -5px 0 #140f0b inset;
+}
